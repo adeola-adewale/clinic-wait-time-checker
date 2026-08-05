@@ -1,1 +1,2 @@
-"# Clinic Wait-time Checker" 
+# Clinic Wait-time Checker
+
